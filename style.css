@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('/img/evie-s-yDN0aAiHSMg-unsplash.jpg');
+    background-image: url('./img/evie-s-yDN0aAiHSMg-unsplash.jpg');
     background-size: cover;
     /* display: flex;
     align-items: center;
